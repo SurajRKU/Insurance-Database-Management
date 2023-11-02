@@ -9,3 +9,6 @@ This project involves a desktop application for tracking and managing the detail
 ![E-R Diagram](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/E-R_Diagram_Representation.png)
 
 ## Database Schema
+![Schema1 Diagram](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Database_Schema1.png)
+
+![Schema2 Diagram](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Database_Schema2.png)
