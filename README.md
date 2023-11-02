@@ -16,4 +16,9 @@ This project involves a desktop application for tracking and managing the detail
 # Insertion
 ![Insertion](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Insert_Image_saved.png)
 # Deletion
-![Insertion](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Insert_Image_saved.png)
+![Deletion](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Delete_insurance_image.png)
+# Search
+![Search](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Delete_insurance_image.png)
+# Update and Claim Insurance
+![Search](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Delete_insurance_image.png)
+
