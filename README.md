@@ -11,3 +11,9 @@ This project involves a desktop application for tracking and managing the detail
 ## Database Schema
 ![Schema1 Diagram](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/DB_Schema.png)
 
+## Features 
+
+# Insertion
+![Insertion](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Insert_Image_saved.png)
+# Deletion
+![Insertion](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Insert_Image_saved.png)
