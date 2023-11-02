@@ -1,25 +1,25 @@
 # Insurance Database Management
 
-# About the Project
-This project involves a desktop application for tracking and managing the details of customers for an insurance company.
+# About
+This project involves a comprehensive desktop application for tracking and managing the details of customers for an insurance company.
 
 # System Design
-
 ## E - R Representation
-![E-R Diagram](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/E-R_Diagram_Representation.png)
+<img src="https://github.com/SurajRKU/Insurance_Database_Management/blob/main/E-R_Diagram_Representation.png" width="650" />
 
 ## Database Schema
-![Schema1 Diagram](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/DB_Schema.png)
+<img src="https://github.com/SurajRKU/Insurance_Database_Management/blob/main/DB_Schema.png" width="500" />
 
-## Features 
+# Features
+## Insertion
+<img src="https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Insert_Image_saved.png" width="700" />
 
-# Insertion
-![Insertion](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Insert_Image_saved.png)
-# Deletion
-![Deletion](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Delete_Screen.png)
-# Search
-![Search](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Search_Screen.png)
-# Update and Claim Insurance
-![Update](https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Update_Screen3.png)
+## Deletion
+<img src="https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Delete_Screen.png" width="700" />
 
+## Search
+<img src="https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Search_Screen.png" width="700" />
+
+## Update and Claim Insurance
+<img src="https://github.com/SurajRKU/Insurance_Database_Management/blob/main/Update_Screen3.png" width="700" />
 
