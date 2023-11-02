@@ -8,7 +8,8 @@ This project involves a comprehensive desktop application for tracking and manag
 <img src="https://github.com/SurajRKU/Insurance_Database_Management/blob/main/E-R_Diagram_Representation.png" width="650" />
 
 ## Database Schema
-<img src="https://github.com/SurajRKU/Insurance_Database_Management/blob/main/DB_Schema.png" width="500" />
+<img src="https://github.com/SurajRKU/Insurance_Database_Management/blob/main/DB_Proj_Schema.png" width="700" />
+
 
 # Features
 ## Insertion
