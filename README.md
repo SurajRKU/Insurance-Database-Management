@@ -1,13 +1,13 @@
 # Insurance Database Management
-
 # About
 This project involves a desktop application software designed to streamline customer data management for insurance companies, making it easier to handle tasks like adding, deleting and editing customer records along with policy calculation and premium amount computation.
 
 Key Highlights:
-1)A user-friendly desktop application.
-2)Seamlessly integrates with a MySQL database for efficient data storage and retrieval.
-3)Leverages Python's tkinter graphical user interface (GUI) framework, ensuring a visually interactive and intuitive user experience.
-4)Provides easy access to essential customer and insurance resource information.
+
+1)A user-friendly desktop application.<br />
+2)Seamlessly integrates with a MySQL database for efficient data storage and retrieval.<br />
+3)Leverages Python's tkinter graphical user interface (GUI) framework, ensuring a visually interactive and intuitive user experience.<br />
+4)Provides easy access to essential customer and insurance resource information.<br />
 
 # System Design
 ## E - R Representation
